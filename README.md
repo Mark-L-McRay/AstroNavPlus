@@ -1,4 +1,4 @@
-# AstroNav-
+# AstroNav+
 A navigation and life support monitoring computer app for spaceships in the solar system 
 # Astronav+ ⛑️  
 **Survival-Centered Navigation for Deep Space Travel**
