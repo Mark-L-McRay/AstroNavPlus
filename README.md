@@ -89,3 +89,8 @@ From filter swaps to interplanetary hops...
 ---
 
 > *“Because staying alive is part of the mission.”*
+## 🚀 Astronav+ UI Preview
+
+![Astronav+ UI](https://github.com/Mark-L-McRay/AstroNavPlus/raw/main/1751932374267.jpg)
+
+> A concept of the Astronav+ interface, combining orbital plotting, crew stress, and critical life support diagnostics in one unified mission display.
